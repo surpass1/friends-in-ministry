@@ -1,0 +1,446 @@
+Compiled jquery.js  (2ms)  (pid 20440)
+Compiled jquery_ujs.js  (0ms)  (pid 20440)
+Compiled bootstrap-transition.js  (0ms)  (pid 20440)
+Compiled bootstrap-affix.js  (0ms)  (pid 20440)
+Compiled bootstrap-alert.js  (0ms)  (pid 20440)
+Compiled bootstrap-button.js  (0ms)  (pid 20440)
+Compiled bootstrap-carousel.js  (0ms)  (pid 20440)
+Compiled bootstrap-collapse.js  (0ms)  (pid 20440)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 20440)
+Compiled bootstrap-modal.js  (0ms)  (pid 20440)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 20440)
+Compiled bootstrap-tab.js  (0ms)  (pid 20440)
+Compiled bootstrap-tooltip.js  (36ms)  (pid 20440)
+Compiled bootstrap-popover.js  (0ms)  (pid 20440)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 20440)
+Compiled bootstrap.js  (182ms)  (pid 20440)
+Compiled comments.js  (143ms)  (pid 20440)
+Compiled home.js  (1ms)  (pid 20440)
+Compiled pages.js  (0ms)  (pid 20440)
+Compiled posts.js  (0ms)  (pid 20440)
+Compiled application.js  (380ms)  (pid 20440)
+Compiled bootstrap.min.css  (2619ms)  (pid 20440)
+Compiled comments.css  (1ms)  (pid 20440)
+WARNING on line 8 of /home/surpass/Topbrainz_projects/Circle of freinds/app/assets/stylesheets/framework_and_overrides.css.scss: "img" failed to @extend ".img-responsive".
+  The selector ".img-responsive" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .img-responsive !optional" if the extend should be able to fail.
+
+WARNING on line 20 of /home/surpass/Topbrainz_projects/Circle of freinds/app/assets/stylesheets/framework_and_overrides.css.scss: ".column" failed to @extend ".col-md-6".
+  The selector ".col-md-6" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .col-md-6 !optional" if the extend should be able to fail.
+
+WARNING on line 24 of /home/surpass/Topbrainz_projects/Circle of freinds/app/assets/stylesheets/framework_and_overrides.css.scss: ".form" failed to @extend ".col-md-6".
+  The selector ".col-md-6" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .col-md-6 !optional" if the extend should be able to fail.
+
+WARNING on line 27 of /home/surpass/Topbrainz_projects/Circle of freinds/app/assets/stylesheets/framework_and_overrides.css.scss: ".form-centered" failed to @extend ".col-md-6".
+  The selector ".col-md-6" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .col-md-6 !optional" if the extend should be able to fail.
+
+WARNING on line 33 of /home/surpass/Topbrainz_projects/Circle of freinds/app/assets/stylesheets/framework_and_overrides.css.scss: ".submit" failed to @extend ".btn-lg".
+  The selector ".btn-lg" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .btn-lg !optional" if the extend should be able to fail.
+
+Compiled framework_and_overrides.css  (2467ms)  (pid 20440)
+Compiled home.css  (87ms)  (pid 20440)
+Compiled navbar-fixed-top.css  (2ms)  (pid 20440)
+Compiled pages.css  (1ms)  (pid 20440)
+Compiled posts.css  (76ms)  (pid 20440)
+Compiled scaffolds.css  (88ms)  (pid 20440)
+Compiled application.css  (8746ms)  (pid 20440)
+Compiled rails_admin/jquery.colorpicker.js  (0ms)  (pid 20440)
+Compiled jquery.iframe-transport.js  (1ms)  (pid 20440)
+Compiled rails_admin/jquery.remotipart.fixed.js  (22ms)  (pid 20440)
+Compiled jquery.ui.effect.js  (49ms)  (pid 20440)
+Compiled jquery.ui.core.js  (3ms)  (pid 20440)
+Compiled jquery.ui.widget.js  (0ms)  (pid 20440)
+Compiled jquery.ui.mouse.js  (5ms)  (pid 20440)
+Compiled jquery.ui.sortable.js  (49ms)  (pid 20440)
+Compiled jquery.ui.position.js  (0ms)  (pid 20440)
+Compiled jquery.ui.menu.js  (14ms)  (pid 20440)
+Compiled jquery.ui.autocomplete.js  (28ms)  (pid 20440)
+Compiled jquery.ui.datepicker.js  (3ms)  (pid 20440)
+Compiled rails_admin/jquery.ui.timepicker.js  (44ms)  (pid 20440)
+Compiled rails_admin/ra.datetimepicker.js  (0ms)  (pid 20440)
+Compiled rails_admin/ra.filter-box.js  (0ms)  (pid 20440)
+Compiled rails_admin/ra.filtering-multiselect.js  (0ms)  (pid 20440)
+Compiled rails_admin/ra.filtering-select.js  (0ms)  (pid 20440)
+Compiled rails_admin/ra.remote-form.js  (0ms)  (pid 20440)
+Compiled rails_admin/jquery.pjax.js  (0ms)  (pid 20440)
+Compiled jquery_nested_form.js  (0ms)  (pid 20440)
+Compiled rails_admin/ra.nested-form-hooks.js  (47ms)  (pid 20440)
+Compiled rails_admin/ra.widgets.js  (125ms)  (pid 20440)
+Compiled rails_admin/ui.js  (43ms)  (pid 20440)
+Compiled rails_admin/custom/ui.js  (0ms)  (pid 20440)
+Compiled rails_admin/rails_admin.js  (623ms)  (pid 20440)
+Compiled rails_admin/jquery.colorpicker.css  (38ms)  (pid 20440)
+Compiled font-awesome.css  (79ms)  (pid 20440)
+Compiled rails_admin/rails_admin.css  (4338ms)  (pid 20440)
+Compiled vendor/custom.modernizr.js  (0ms)  (pid 20440)
+Compiled vendor/zepto.js  (0ms)  (pid 20440)
+Compiled jquery.js  (3ms)  (pid 20440)
+Compiled jquery_ujs.js  (0ms)  (pid 20440)
+Compiled bootstrap-transition.js  (0ms)  (pid 20440)
+Compiled bootstrap-affix.js  (0ms)  (pid 20440)
+Compiled bootstrap-alert.js  (0ms)  (pid 20440)
+Compiled bootstrap-button.js  (0ms)  (pid 20440)
+Compiled bootstrap-carousel.js  (0ms)  (pid 20440)
+Compiled bootstrap-collapse.js  (0ms)  (pid 20440)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 20440)
+Compiled bootstrap-modal.js  (0ms)  (pid 20440)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 20440)
+Compiled bootstrap-tab.js  (0ms)  (pid 20440)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 20440)
+Compiled bootstrap-popover.js  (0ms)  (pid 20440)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 20440)
+Compiled bootstrap.js  (180ms)  (pid 20440)
+Compiled comments.js  (92ms)  (pid 20440)
+Compiled home.js  (1ms)  (pid 20440)
+Compiled pages.js  (0ms)  (pid 20440)
+Compiled posts.js  (0ms)  (pid 20440)
+Compiled application.js  (329ms)  (pid 20440)
+Compiled bootstrap.min.css  (2600ms)  (pid 20440)
+Compiled comments.css  (1ms)  (pid 20440)
+WARNING on line 8 of /home/surpass/Topbrainz_projects/Circle of freinds/app/assets/stylesheets/framework_and_overrides.css.scss: "img" failed to @extend ".img-responsive".
+  The selector ".img-responsive" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .img-responsive !optional" if the extend should be able to fail.
+
+WARNING on line 20 of /home/surpass/Topbrainz_projects/Circle of freinds/app/assets/stylesheets/framework_and_overrides.css.scss: ".column" failed to @extend ".col-md-6".
+  The selector ".col-md-6" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .col-md-6 !optional" if the extend should be able to fail.
+
+WARNING on line 24 of /home/surpass/Topbrainz_projects/Circle of freinds/app/assets/stylesheets/framework_and_overrides.css.scss: ".form" failed to @extend ".col-md-6".
+  The selector ".col-md-6" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .col-md-6 !optional" if the extend should be able to fail.
+
+WARNING on line 27 of /home/surpass/Topbrainz_projects/Circle of freinds/app/assets/stylesheets/framework_and_overrides.css.scss: ".form-centered" failed to @extend ".col-md-6".
+  The selector ".col-md-6" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .col-md-6 !optional" if the extend should be able to fail.
+
+WARNING on line 33 of /home/surpass/Topbrainz_projects/Circle of freinds/app/assets/stylesheets/framework_and_overrides.css.scss: ".submit" failed to @extend ".btn-lg".
+  The selector ".btn-lg" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .btn-lg !optional" if the extend should be able to fail.
+
+Compiled framework_and_overrides.css  (2394ms)  (pid 20440)
+Compiled home.css  (90ms)  (pid 20440)
+Compiled navbar-fixed-top.css  (2ms)  (pid 20440)
+Compiled pages.css  (1ms)  (pid 20440)
+Compiled posts.css  (78ms)  (pid 20440)
+Compiled scaffolds.css  (90ms)  (pid 20440)
+Compiled application.css  (8276ms)  (pid 20440)
+Compiled rails_admin/jquery.colorpicker.js  (0ms)  (pid 20440)
+Compiled jquery.iframe-transport.js  (0ms)  (pid 20440)
+Compiled rails_admin/jquery.remotipart.fixed.js  (7ms)  (pid 20440)
+Compiled jquery.ui.effect.js  (0ms)  (pid 20440)
+Compiled jquery.ui.core.js  (3ms)  (pid 20440)
+Compiled jquery.ui.widget.js  (0ms)  (pid 20440)
+Compiled jquery.ui.mouse.js  (5ms)  (pid 20440)
+Compiled jquery.ui.sortable.js  (32ms)  (pid 20440)
+Compiled jquery.ui.position.js  (0ms)  (pid 20440)
+Compiled jquery.ui.menu.js  (13ms)  (pid 20440)
+Compiled jquery.ui.autocomplete.js  (27ms)  (pid 20440)
+Compiled jquery.ui.datepicker.js  (3ms)  (pid 20440)
+Compiled rails_admin/jquery.ui.timepicker.js  (1ms)  (pid 20440)
+Compiled rails_admin/ra.datetimepicker.js  (0ms)  (pid 20440)
+Compiled rails_admin/ra.filter-box.js  (0ms)  (pid 20440)
+Compiled rails_admin/ra.filtering-multiselect.js  (0ms)  (pid 20440)
+Compiled rails_admin/ra.filtering-select.js  (0ms)  (pid 20440)
+Compiled rails_admin/ra.remote-form.js  (0ms)  (pid 20440)
+Compiled rails_admin/jquery.pjax.js  (0ms)  (pid 20440)
+Compiled jquery_nested_form.js  (0ms)  (pid 20440)
+Compiled rails_admin/ra.nested-form-hooks.js  (48ms)  (pid 20440)
+Compiled rails_admin/ra.widgets.js  (122ms)  (pid 20440)
+Compiled rails_admin/ui.js  (46ms)  (pid 20440)
+Compiled rails_admin/custom/ui.js  (0ms)  (pid 20440)
+Compiled rails_admin/rails_admin.js  (510ms)  (pid 20440)
+Compiled rails_admin/jquery.colorpicker.css  (35ms)  (pid 20440)
+Compiled font-awesome.css  (31ms)  (pid 20440)
+Compiled rails_admin/rails_admin.css  (4122ms)  (pid 20440)
+Compiled vendor/custom.modernizr.js  (0ms)  (pid 20440)
+Compiled vendor/zepto.js  (62ms)  (pid 20440)
+Compiled jquery.js  (2ms)  (pid 20886)
+Compiled jquery_ujs.js  (0ms)  (pid 20886)
+Compiled bootstrap-transition.js  (0ms)  (pid 20886)
+Compiled bootstrap-affix.js  (0ms)  (pid 20886)
+Compiled bootstrap-alert.js  (0ms)  (pid 20886)
+Compiled bootstrap-button.js  (0ms)  (pid 20886)
+Compiled bootstrap-carousel.js  (0ms)  (pid 20886)
+Compiled bootstrap-collapse.js  (0ms)  (pid 20886)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 20886)
+Compiled bootstrap-modal.js  (0ms)  (pid 20886)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 20886)
+Compiled bootstrap-tab.js  (0ms)  (pid 20886)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 20886)
+Compiled bootstrap-popover.js  (36ms)  (pid 20886)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 20886)
+Compiled bootstrap.js  (175ms)  (pid 20886)
+Compiled comments.js  (92ms)  (pid 20886)
+Compiled home.js  (1ms)  (pid 20886)
+Compiled pages.js  (0ms)  (pid 20886)
+Compiled posts.js  (0ms)  (pid 20886)
+Compiled application.js  (319ms)  (pid 20886)
+Compiled bootstrap.min.css  (2591ms)  (pid 20886)
+Compiled comments.css  (1ms)  (pid 20886)
+WARNING on line 8 of /home/surpass/friends-in-ministry/app/assets/stylesheets/framework_and_overrides.css.scss: "img" failed to @extend ".img-responsive".
+  The selector ".img-responsive" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .img-responsive !optional" if the extend should be able to fail.
+
+WARNING on line 20 of /home/surpass/friends-in-ministry/app/assets/stylesheets/framework_and_overrides.css.scss: ".column" failed to @extend ".col-md-6".
+  The selector ".col-md-6" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .col-md-6 !optional" if the extend should be able to fail.
+
+WARNING on line 24 of /home/surpass/friends-in-ministry/app/assets/stylesheets/framework_and_overrides.css.scss: ".form" failed to @extend ".col-md-6".
+  The selector ".col-md-6" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .col-md-6 !optional" if the extend should be able to fail.
+
+WARNING on line 27 of /home/surpass/friends-in-ministry/app/assets/stylesheets/framework_and_overrides.css.scss: ".form-centered" failed to @extend ".col-md-6".
+  The selector ".col-md-6" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .col-md-6 !optional" if the extend should be able to fail.
+
+WARNING on line 33 of /home/surpass/friends-in-ministry/app/assets/stylesheets/framework_and_overrides.css.scss: ".submit" failed to @extend ".btn-lg".
+  The selector ".btn-lg" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .btn-lg !optional" if the extend should be able to fail.
+
+Compiled framework_and_overrides.css  (2329ms)  (pid 20886)
+Compiled home.css  (87ms)  (pid 20886)
+Compiled navbar-fixed-top.css  (1ms)  (pid 20886)
+Compiled pages.css  (1ms)  (pid 20886)
+Compiled posts.css  (137ms)  (pid 20886)
+Compiled scaffolds.css  (87ms)  (pid 20886)
+Compiled application.css  (8186ms)  (pid 20886)
+Compiled rails_admin/jquery.colorpicker.js  (0ms)  (pid 20886)
+Compiled jquery.iframe-transport.js  (0ms)  (pid 20886)
+Compiled rails_admin/jquery.remotipart.fixed.js  (7ms)  (pid 20886)
+Compiled jquery.ui.effect.js  (0ms)  (pid 20886)
+Compiled jquery.ui.core.js  (2ms)  (pid 20886)
+Compiled jquery.ui.widget.js  (0ms)  (pid 20886)
+Compiled jquery.ui.mouse.js  (5ms)  (pid 20886)
+Compiled jquery.ui.sortable.js  (31ms)  (pid 20886)
+Compiled jquery.ui.position.js  (0ms)  (pid 20886)
+Compiled jquery.ui.menu.js  (13ms)  (pid 20886)
+Compiled jquery.ui.autocomplete.js  (26ms)  (pid 20886)
+Compiled jquery.ui.datepicker.js  (3ms)  (pid 20886)
+Compiled rails_admin/jquery.ui.timepicker.js  (43ms)  (pid 20886)
+Compiled rails_admin/ra.datetimepicker.js  (0ms)  (pid 20886)
+Compiled rails_admin/ra.filter-box.js  (0ms)  (pid 20886)
+Compiled rails_admin/ra.filtering-multiselect.js  (0ms)  (pid 20886)
+Compiled rails_admin/ra.filtering-select.js  (0ms)  (pid 20886)
+Compiled rails_admin/ra.remote-form.js  (0ms)  (pid 20886)
+Compiled rails_admin/jquery.pjax.js  (0ms)  (pid 20886)
+Compiled jquery_nested_form.js  (0ms)  (pid 20886)
+Compiled rails_admin/ra.nested-form-hooks.js  (47ms)  (pid 20886)
+Compiled rails_admin/ra.widgets.js  (122ms)  (pid 20886)
+Compiled rails_admin/ui.js  (43ms)  (pid 20886)
+Compiled rails_admin/custom/ui.js  (0ms)  (pid 20886)
+Compiled rails_admin/rails_admin.js  (496ms)  (pid 20886)
+Compiled rails_admin/jquery.colorpicker.css  (36ms)  (pid 20886)
+Compiled font-awesome.css  (58ms)  (pid 20886)
+Compiled rails_admin/rails_admin.css  (4225ms)  (pid 20886)
+Compiled vendor/custom.modernizr.js  (0ms)  (pid 20886)
+Compiled vendor/zepto.js  (0ms)  (pid 20886)
+Compiled jquery.js  (3ms)  (pid 20886)
+Compiled jquery_ujs.js  (0ms)  (pid 20886)
+Compiled bootstrap-transition.js  (0ms)  (pid 20886)
+Compiled bootstrap-affix.js  (0ms)  (pid 20886)
+Compiled bootstrap-alert.js  (0ms)  (pid 20886)
+Compiled bootstrap-button.js  (0ms)  (pid 20886)
+Compiled bootstrap-carousel.js  (0ms)  (pid 20886)
+Compiled bootstrap-collapse.js  (0ms)  (pid 20886)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 20886)
+Compiled bootstrap-modal.js  (0ms)  (pid 20886)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 20886)
+Compiled bootstrap-tab.js  (0ms)  (pid 20886)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 20886)
+Compiled bootstrap-popover.js  (0ms)  (pid 20886)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 20886)
+Compiled bootstrap.js  (173ms)  (pid 20886)
+Compiled comments.js  (91ms)  (pid 20886)
+Compiled home.js  (1ms)  (pid 20886)
+Compiled pages.js  (0ms)  (pid 20886)
+Compiled posts.js  (0ms)  (pid 20886)
+Compiled application.js  (315ms)  (pid 20886)
+Compiled jquery.js  (2ms)  (pid 20901)
+Compiled jquery_ujs.js  (0ms)  (pid 20901)
+Compiled bootstrap-transition.js  (0ms)  (pid 20901)
+Compiled bootstrap-affix.js  (0ms)  (pid 20901)
+Compiled bootstrap-alert.js  (0ms)  (pid 20901)
+Compiled bootstrap-button.js  (0ms)  (pid 20901)
+Compiled bootstrap-carousel.js  (0ms)  (pid 20901)
+Compiled bootstrap-collapse.js  (0ms)  (pid 20901)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 20901)
+Compiled bootstrap-modal.js  (0ms)  (pid 20901)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 20901)
+Compiled bootstrap-tab.js  (0ms)  (pid 20901)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 20901)
+Compiled bootstrap-popover.js  (0ms)  (pid 20901)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 20901)
+Compiled bootstrap.js  (175ms)  (pid 20901)
+Compiled comments.js  (91ms)  (pid 20901)
+Compiled home.js  (1ms)  (pid 20901)
+Compiled pages.js  (0ms)  (pid 20901)
+Compiled posts.js  (0ms)  (pid 20901)
+Compiled application.js  (318ms)  (pid 20901)
+Compiled bootstrap.min.css  (2592ms)  (pid 20901)
+Compiled comments.css  (1ms)  (pid 20901)
+WARNING on line 8 of /home/surpass/friends-in-ministry/app/assets/stylesheets/framework_and_overrides.css.scss: "img" failed to @extend ".img-responsive".
+  The selector ".img-responsive" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .img-responsive !optional" if the extend should be able to fail.
+
+WARNING on line 20 of /home/surpass/friends-in-ministry/app/assets/stylesheets/framework_and_overrides.css.scss: ".column" failed to @extend ".col-md-6".
+  The selector ".col-md-6" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .col-md-6 !optional" if the extend should be able to fail.
+
+WARNING on line 24 of /home/surpass/friends-in-ministry/app/assets/stylesheets/framework_and_overrides.css.scss: ".form" failed to @extend ".col-md-6".
+  The selector ".col-md-6" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .col-md-6 !optional" if the extend should be able to fail.
+
+WARNING on line 27 of /home/surpass/friends-in-ministry/app/assets/stylesheets/framework_and_overrides.css.scss: ".form-centered" failed to @extend ".col-md-6".
+  The selector ".col-md-6" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .col-md-6 !optional" if the extend should be able to fail.
+
+WARNING on line 33 of /home/surpass/friends-in-ministry/app/assets/stylesheets/framework_and_overrides.css.scss: ".submit" failed to @extend ".btn-lg".
+  The selector ".btn-lg" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .btn-lg !optional" if the extend should be able to fail.
+
+Compiled framework_and_overrides.css  (2328ms)  (pid 20901)
+Compiled home.css  (88ms)  (pid 20901)
+Compiled navbar-fixed-top.css  (1ms)  (pid 20901)
+Compiled pages.css  (1ms)  (pid 20901)
+Compiled posts.css  (138ms)  (pid 20901)
+Compiled scaffolds.css  (87ms)  (pid 20901)
+Compiled application.css  (8193ms)  (pid 20901)
+Compiled rails_admin/jquery.colorpicker.js  (0ms)  (pid 20901)
+Compiled jquery.iframe-transport.js  (0ms)  (pid 20901)
+Compiled rails_admin/jquery.remotipart.fixed.js  (7ms)  (pid 20901)
+Compiled jquery.ui.effect.js  (0ms)  (pid 20901)
+Compiled jquery.ui.core.js  (2ms)  (pid 20901)
+Compiled jquery.ui.widget.js  (0ms)  (pid 20901)
+Compiled jquery.ui.mouse.js  (4ms)  (pid 20901)
+Compiled jquery.ui.sortable.js  (30ms)  (pid 20901)
+Compiled jquery.ui.position.js  (0ms)  (pid 20901)
+Compiled jquery.ui.menu.js  (13ms)  (pid 20901)
+Compiled jquery.ui.autocomplete.js  (27ms)  (pid 20901)
+Compiled jquery.ui.datepicker.js  (3ms)  (pid 20901)
+Compiled rails_admin/jquery.ui.timepicker.js  (1ms)  (pid 20901)
+Compiled rails_admin/ra.datetimepicker.js  (0ms)  (pid 20901)
+Compiled rails_admin/ra.filter-box.js  (0ms)  (pid 20901)
+Compiled rails_admin/ra.filtering-multiselect.js  (0ms)  (pid 20901)
+Compiled rails_admin/ra.filtering-select.js  (0ms)  (pid 20901)
+Compiled rails_admin/ra.remote-form.js  (0ms)  (pid 20901)
+Compiled rails_admin/jquery.pjax.js  (0ms)  (pid 20901)
+Compiled jquery_nested_form.js  (0ms)  (pid 20901)
+Compiled rails_admin/ra.nested-form-hooks.js  (47ms)  (pid 20901)
+Compiled rails_admin/ra.widgets.js  (121ms)  (pid 20901)
+Compiled rails_admin/ui.js  (43ms)  (pid 20901)
+Compiled rails_admin/custom/ui.js  (0ms)  (pid 20901)
+Compiled rails_admin/rails_admin.js  (493ms)  (pid 20901)
+Compiled rails_admin/jquery.colorpicker.css  (35ms)  (pid 20901)
+Compiled font-awesome.css  (111ms)  (pid 20901)
+Compiled rails_admin/rails_admin.css  (4458ms)  (pid 20901)
+Compiled vendor/custom.modernizr.js  (0ms)  (pid 20901)
+Compiled vendor/zepto.js  (0ms)  (pid 20901)
+Compiled jquery.js  (2ms)  (pid 20901)
+Compiled jquery_ujs.js  (0ms)  (pid 20901)
+Compiled bootstrap-transition.js  (0ms)  (pid 20901)
+Compiled bootstrap-affix.js  (0ms)  (pid 20901)
+Compiled bootstrap-alert.js  (0ms)  (pid 20901)
+Compiled bootstrap-button.js  (0ms)  (pid 20901)
+Compiled bootstrap-carousel.js  (0ms)  (pid 20901)
+Compiled bootstrap-collapse.js  (0ms)  (pid 20901)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 20901)
+Compiled bootstrap-modal.js  (0ms)  (pid 20901)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 20901)
+Compiled bootstrap-tab.js  (0ms)  (pid 20901)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 20901)
+Compiled bootstrap-popover.js  (0ms)  (pid 20901)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 20901)
+Compiled bootstrap.js  (173ms)  (pid 20901)
+Compiled comments.js  (92ms)  (pid 20901)
+Compiled home.js  (1ms)  (pid 20901)
+Compiled pages.js  (0ms)  (pid 20901)
+Compiled posts.js  (0ms)  (pid 20901)
+Compiled application.js  (316ms)  (pid 20901)
+Compiled bootstrap.min.css  (2595ms)  (pid 20901)
+Compiled comments.css  (2ms)  (pid 20901)
+WARNING on line 8 of /home/surpass/friends-in-ministry/app/assets/stylesheets/framework_and_overrides.css.scss: "img" failed to @extend ".img-responsive".
+  The selector ".img-responsive" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .img-responsive !optional" if the extend should be able to fail.
+
+WARNING on line 20 of /home/surpass/friends-in-ministry/app/assets/stylesheets/framework_and_overrides.css.scss: ".column" failed to @extend ".col-md-6".
+  The selector ".col-md-6" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .col-md-6 !optional" if the extend should be able to fail.
+
+WARNING on line 24 of /home/surpass/friends-in-ministry/app/assets/stylesheets/framework_and_overrides.css.scss: ".form" failed to @extend ".col-md-6".
+  The selector ".col-md-6" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .col-md-6 !optional" if the extend should be able to fail.
+
+WARNING on line 27 of /home/surpass/friends-in-ministry/app/assets/stylesheets/framework_and_overrides.css.scss: ".form-centered" failed to @extend ".col-md-6".
+  The selector ".col-md-6" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .col-md-6 !optional" if the extend should be able to fail.
+
+WARNING on line 33 of /home/surpass/friends-in-ministry/app/assets/stylesheets/framework_and_overrides.css.scss: ".submit" failed to @extend ".btn-lg".
+  The selector ".btn-lg" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .btn-lg !optional" if the extend should be able to fail.
+
+Compiled framework_and_overrides.css  (2370ms)  (pid 20901)
+Compiled home.css  (117ms)  (pid 20901)
+Compiled navbar-fixed-top.css  (2ms)  (pid 20901)
+Compiled pages.css  (1ms)  (pid 20901)
+Compiled posts.css  (77ms)  (pid 20901)
+Compiled scaffolds.css  (88ms)  (pid 20901)
+Compiled application.css  (8304ms)  (pid 20901)
+Compiled rails_admin/jquery.colorpicker.js  (0ms)  (pid 20901)
+Compiled jquery.iframe-transport.js  (0ms)  (pid 20901)
+Compiled rails_admin/jquery.remotipart.fixed.js  (7ms)  (pid 20901)
+Compiled jquery.ui.effect.js  (0ms)  (pid 20901)
+Compiled jquery.ui.core.js  (2ms)  (pid 20901)
+Compiled jquery.ui.widget.js  (0ms)  (pid 20901)
+Compiled jquery.ui.mouse.js  (4ms)  (pid 20901)
+Compiled jquery.ui.sortable.js  (76ms)  (pid 20901)
+Compiled jquery.ui.position.js  (0ms)  (pid 20901)
+Compiled jquery.ui.menu.js  (13ms)  (pid 20901)
+Compiled jquery.ui.autocomplete.js  (26ms)  (pid 20901)
+Compiled jquery.ui.datepicker.js  (3ms)  (pid 20901)
+Compiled rails_admin/jquery.ui.timepicker.js  (1ms)  (pid 20901)
+Compiled rails_admin/ra.datetimepicker.js  (0ms)  (pid 20901)
+Compiled rails_admin/ra.filter-box.js  (0ms)  (pid 20901)
+Compiled rails_admin/ra.filtering-multiselect.js  (0ms)  (pid 20901)
+Compiled rails_admin/ra.filtering-select.js  (0ms)  (pid 20901)
+Compiled rails_admin/ra.remote-form.js  (0ms)  (pid 20901)
+Compiled rails_admin/jquery.pjax.js  (0ms)  (pid 20901)
+Compiled jquery_nested_form.js  (0ms)  (pid 20901)
+Compiled rails_admin/ra.nested-form-hooks.js  (47ms)  (pid 20901)
+Compiled rails_admin/ra.widgets.js  (121ms)  (pid 20901)
+Compiled rails_admin/ui.js  (43ms)  (pid 20901)
+Compiled rails_admin/custom/ui.js  (0ms)  (pid 20901)
+Compiled rails_admin/rails_admin.js  (490ms)  (pid 20901)
+Compiled rails_admin/jquery.colorpicker.css  (35ms)  (pid 20901)
+Compiled font-awesome.css  (30ms)  (pid 20901)
+Compiled rails_admin/rails_admin.css  (4109ms)  (pid 20901)
+Compiled vendor/custom.modernizr.js  (0ms)  (pid 20901)
+Compiled vendor/zepto.js  (0ms)  (pid 20901)

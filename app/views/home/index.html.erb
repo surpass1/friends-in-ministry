@@ -1,0 +1,10 @@
+<%= stylesheet_link_tag		"bootstrap.min" %>
+<div class="row-fluid">
+	<div class="span4">
+		<%= render 'posts/form' %>
+		<% @activities.each do |activity| %>
+		<%= render_activity(activity) %>
+		<% end %>
+	</div>
+	<div class="span8">lkxsm c,,s </div>
+</div>

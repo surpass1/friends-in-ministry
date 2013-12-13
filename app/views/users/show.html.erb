@@ -1,0 +1,22 @@
+<%= stylesheet_link_tag		"bootstrap.min", :media=>"all" %>
+<div class="container">
+<div class="row-fluid">
+<% if user_signed_in? %>
+	
+	<%= render 'shared/follow_form' , user: @user%>
+	<% end %>
+	<div class="span2">
+	<%= image_tag @user.avatar.url(:thumb), class: 'profile' %><br/>
+	<h5><%= @user.name %></h5>
+	</div>
+	<div class="span5">
+		<% @activities.each do |activity| %>
+		<%= render_activity(activity) %>
+	<% end %>
+	</div>
+	
+	<div class="row feed ">
+	
+</div>
+</div>
+</div>

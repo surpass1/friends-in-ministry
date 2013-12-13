@@ -1,0 +1,25 @@
+<% if signed_in? %>
+
+        <h1 class="micropost">What I have to say!</h1>
+       
+<% else %>
+<div class="container">
+	<div class="row-fluid">
+		<div class="span4"></div>
+		<div class="span6">
+			<h1 class="text-warning">Friends in ministry</h1>
+			<p>
+			 
+			</p>
+
+			
+
+			<% end %>
+		</div>
+		<div class="span2"><%= link_to "Sign in Friend", signup_path, :class => " btn btn-success" %>
+		<p> 
+			<br/>For your first time <br/><%= link_to "Sign up Friend!", signup_path, :class => "btn btn-warning" %>
+		</p>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,23 @@
+ <div class="navbar navbar-default navbar-fixed-top">
+   
+	<div class="navbar-header">
+
+	  <p  class="navbar-brand text-warning"><font size="+2" weight="100px"><a href="/">Friends in Ministry</a></font><b> Teaching, Preaching and Healing Nations (Mathew 9:35)</b></p>
+	</div>
+	<div class="navbar-collapse collapse">
+      <ul class="nav navbar-nav pull-right">
+      <%if user_signed_in? %>
+    	<li><%= link_to "Home", root_path %></li>
+        <li><%= link_to 'Circlar-bond', users_path %> </li>
+        <li class="divider"></li>
+        <li><%= link_to 'Profile', current_user %> </li>
+        <li class="divider"></li>
+        <li><%= link_to 'Edit', edit_user_registration_path %></li>
+        <li class="divider"></li>
+        <li><%= link_to 'Sign out', destroy_user_session_path , method: :delete %></li>
+	  </ul>
+<% end %>
+</div>
+</div>
+</div>
+</div>
